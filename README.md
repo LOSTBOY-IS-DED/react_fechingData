@@ -15,4 +15,7 @@ step 5 : git add .
 
 step 6 : git commit -m "removed node modules"
 
-step 7 : git push -u origin master
+step 7 : git push -u origin main 
+
+
+// end of steps 
